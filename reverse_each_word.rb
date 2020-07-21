@@ -9,5 +9,5 @@ def reverse_each_word (string)
   #  reversed  << char 
     
   # i += 1
- end
+# end
 end
